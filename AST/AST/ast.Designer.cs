@@ -28,15 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ast));
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.hide = new System.Windows.Forms.Button();
             this.show = new System.Windows.Forms.Button();
             this.Chias_link = new System.Windows.Forms.LinkLabel();
             this.label1 = new System.Windows.Forms.Label();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // textBox1
@@ -85,14 +82,6 @@
             this.label1.TabIndex = 5;
             this.label1.Text = "你这么屌，你妹妹知道吗？\r\n\r\n强烈建议：文件夹名最好含有数字、符号或字母。";
             // 
-            // timer1
-            // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // timer2
-            // 
-            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
-            // 
             // ast
             // 
             this.AcceptButton = this.hide;
@@ -122,8 +111,6 @@
         private System.Windows.Forms.Button show;
         private System.Windows.Forms.LinkLabel Chias_link;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.Timer timer2;
     }
 }
 
