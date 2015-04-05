@@ -12,4 +12,4 @@ AST
 
 电脑技术很一般的人无法看到隐藏的内容，就算是高手，如果不是刻意去找的话，平时也是发现不了的。
 
-详情参照：[http://www.chias.me/168.html](http://www.chias.me/168.html)
+详情参照：[https://www.chias.me/post-168](https://www.chias.me/post-168)
