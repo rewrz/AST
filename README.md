@@ -16,4 +16,4 @@ AST
 
 #注意！此项目停止更新！可能会并入到CScrypt项目里#
 由于做此工具时，代码编写非常不规范，太过于业余，所以非常难以维护更新，我现在看那一堆代码都头痛，可能会重新编译，并入到CScrypt项目里面：
-（https://www.chias.me/post-467）
+https://www.chias.me/post-467
